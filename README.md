@@ -1,9 +1,11 @@
 # Rafael Mota
 
-> 👋 Muito prazer, eu sou [Rafael Mota](@rafaelmotacr)!
+> Sou apaixonado pelas artes da escrita e da programação. Estou cursando análise e desenvolvimento de sistemas no IFBA (Instituto Federal da Bahia).
+>  Sou formado como técnico em admnistração, mas aplico isso principalmente em minha organização pessoal e profissional.
+> Me percebo como um profissional flexivel que está sempre em busca de aprendizado pessoal e profissional, a fim de crescer como pessoa.
 
 ## Conecte-se comigo 
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mota-cr1227/)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mota-cr/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@rafaelmotacr/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelmotacr)
 [![Replit](https://img.shields.io/badge/replit-DF7401?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@rafaelmotacr)
