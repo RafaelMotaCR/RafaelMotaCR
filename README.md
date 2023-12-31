@@ -22,6 +22,7 @@
 > ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelmotacr&theme=react&bg_color=1C1C1C&border_color=000000&show_icons=true&icon_color=2EFEF7&title_color=2EFEF7&text_color=FFF&hide=stars&hide_title=true)
 
 > [![GitHub Streak](https://streak-stats.demolab.com?user=rafaelmotacr&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+
 <!---
 RafaelMotaCR/RafaelMotaCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
