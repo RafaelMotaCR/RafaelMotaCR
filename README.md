@@ -16,8 +16,10 @@
 > ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=c0c0c0&color=000)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=c0c0c0&color=000)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=c0c0c0&color=000)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=c0c0c0&color=000)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=c0c0c0&color=000)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=c0c0c0&color=000)
+
+Obrigado por sua visita! Toma aqui um café ☕!
 
 <!---
 RafaelMotaCR/RafaelMotaCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
